@@ -39,12 +39,17 @@ On Kaggle these are available from:
 
 /kaggle/input/datasets/tuckerarrants/bc2026-distilled-sed-public/
 
+## Repository Structure
+
+```text
 BirdCLEF-Ensemble/
 │
 ├── birdclef_production.py
 ├── birdclef_simple.py
 ├── birdclef_optimized.py
 ├── requirements.txt
+├── README.md
+├── LICENSE
 │
 └── models/
     ├── sed_fold0.onnx
@@ -52,7 +57,7 @@ BirdCLEF-Ensemble/
     ├── sed_fold2.onnx
     ├── sed_fold3.onnx
     └── sed_fold4.onnx
-
+```
 ## 📊 Configuration Summary
 
 | Parameter         | Value |
