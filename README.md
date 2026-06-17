@@ -48,8 +48,8 @@ The system uses a five-fold ensemble of distilled Sound Event Detection (SED) mo
 ### Clone Repository
 
 ```bash
-git clone https://github.com/mayakaripel/birdclef-2026.git
-cd birdclef-2026
+git clone https://github.com/mayakaripel/BirdCLEF-Ensemble.git
+cd BirdCLEF-Ensemble
 ```
 
 ### Install Dependencies
